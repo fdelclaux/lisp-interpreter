@@ -15,4 +15,4 @@ lisp.cpp : Source code file, written in C++ without the use of classes
 
 All based around Expression records of three types: value, variable, and applied expressions. 
 
-Lisp can be used for  *Functional Programming* 
+Lisp can be used for  **Functional Programming**
